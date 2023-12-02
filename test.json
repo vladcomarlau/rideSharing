@@ -1,18 +1,92 @@
 [
     {
-        "atribut 1 - object level 1": "value",
-        "atribut 2 - object level 1": "value",
-        "atribut 3 - object level 1": 
+        "pickupLocation":"Str. Garoafelor, nr.10",
+        "destination":"Constantin Brancoveanu",
+        "passengers":1,
+        "roundTrip":true,
+        "tripDate":
         {
-            "atribut 1 - object level 2": "value",
-            "atribut 2 - object level 2": "value",
-            "atribut 3 - object level 2": 
+            "tripDateDay":10,
+            "tripDateMonth":11,
+            "tripDateYear":2023,
+            "tripTime":
             {
-                "atribut 1 - object level 3": "value",
-                "atribut 2 - object level 3": "value",
-                "atribut 3 - object level 3": "value"
+                "tripTimeHours":20,
+                "tripTimeMinutes":15,
+                "tripTimeSeconds":0
+            }
+        }
+    },
+    {
+        "pickupLocation":"Str. Franzelarilor, nr.12",
+        "destination":"Piata Unirii",
+        "passengers":2,
+        "roundTrip":false,
+        "tripDate":
+        {
+            "tripDateDay":12,
+            "tripDateMonth":11,
+            "tripDateYear":2023,
+            "tripTime":
+            {
+                "tripTimeHours":8,
+                "tripTimeMinutes":30,
+                "tripTimeSeconds":20
+            }
+        }
+    },
+    {
+        "pickupLocation":"Str. Bogdan Petriceicu, nr.5",
+        "destination":"Izvor",
+        "passengers":1,
+        "roundTrip":false,
+        "tripDate":
+        {
+            "tripDateDay":22,
+            "tripDateMonth":11,
+            "tripDateYear":2023,
+            "tripTime":
+            {
+                "tripTimeHours":10,
+                "tripTimeMinutes":55,
+                "tripTimeSeconds":59
+            }
+        }
+    },
+    {
+        "pickupLocation":"Str. Soarelui, nr.53",
+        "destination":"Universitate",
+        "passengers":3,
+        "roundTrip":true,
+        "tripDate":
+        {
+            "tripDateDay":28,
+            "tripDateMonth":11,
+            "tripDateYear":2023,
+            "tripTime":
+            {
+                "tripTimeHours":12,
+                "tripTimeMinutes":33,
+                "tripTimeSeconds":45
+            }
+        }
+    },
+    {
+        "pickupLocation":"Str. Diamantului, nr.30",
+        "destination":"Str. Safirului, nr.4",
+        "passengers":1,
+        "roundTrip":true,
+        "tripDate":
+        {
+            "tripDateDay":2,
+            "tripDateMonth":12,
+            "tripDateYear":2023,
+            "tripTime":
+            {
+                "tripTimeHours":14,
+                "tripTimeMinutes":20,
+                "tripTimeSeconds":25
             }
         }
     }
 ]
-
