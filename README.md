@@ -20,6 +20,12 @@
 - All strings are read from the resources strings file (for easy translation / localization)
 - Custom adapter in order to display trips in the ListView
 
+## Running instructions
+1. Download repository
+2. Open project in Android Studio
+3. Select your preferred target device (Android phone / tablet / emulator) API 34
+4. Run project
+
 <br>
 <img width="250" src="https://github.com/vladcomarlau/rideSharingAndroidApp_mock-up/assets/102293760/e04ebd0b-0480-439f-b7a0-5fbaa38c8abe">
 <img width="250" src="https://github.com/vladcomarlau/rideSharingAndroidApp_mock-up/assets/102293760/e0c3bac9-8a02-440a-a1e7-fc02dced154e">
