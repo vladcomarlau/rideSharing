@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RideSharing" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/accent</item>
+        <item name="colorAccent">@color/buttonsText</item>
+    </style>
+    <color name="lightGray">#000000</color>
+    <color name="white">#1B1B1B</color>
+    <color name="black">#888888</color>
+    <color name="accent">#277037</color>
+    <color name="buttonsText">#ABFBBD</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#888888</color>
+    <color name="pink">#FFA7A7</color>
+    <color name="turqoise">#43B88A</color>
+    <color name="yellow">#FFF491</color>
+    <color name="blue">#5378D6</color>
+    <color name="gray">#8F8F8F</color>
+    <color name="lightGray">#EEEEEE</color>
+    <color name="accent">#ABFBBD</color>
+    <color name="buttonsText">#277037</color>
+</resources>

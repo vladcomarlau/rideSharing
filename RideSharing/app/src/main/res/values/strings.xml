@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Ride Sharing</string>
+    <string name="bn_dashboard">Dashboard</string>
+    <string name="bn_profile">Profile</string>
+    <string name="bn_trips">Trips</string>
+    <string name="bn_settings">Settings</string>
+    <string name="tvProfileCardTitle">Welcome!</string>
+    <string name="tripsCardTitle">Recent Trip</string>
+    <string name="trip_history_card_button">View past trips\nor schedule a new trip 📅!</string>
+    <string name="go_to_profile_card_button">View full profile</string>
+    <string name="edit_profile_card_button">Edit profile</string>
+    <string name="editProfileFormTitle">Edit Profile Form</string>
+    <string name="firstNamePlaceholder">First name</string>
+    <string name="tv_add_trip_title">Schedule new trip</string>
+    <string name="add_trip_pickup_location_hint">Pickup location</string>
+    <string name="add_trip_destination_hint">Destination</string>
+    <string name="add_trip_date_and_time_title">Trip date and time:</string>
+    <string name="add_trip_select_date_button_text">Select date</string>
+    <string name="add_trip_select_time_hh_mm_button_text">Select time ( hh : mm )</string>
+    <string name="add_trip_number_of_passengers_title">Number of passengers</string>
+    <string name="add_trip_passengers_rb_1">1</string>
+    <string name="add_trip_passengers_rb_2">2</string>
+    <string name="add_trip_passengers_rb_3">3</string>
+    <string name="add_trip_round_trip_switch_title">Round trip?</string>
+    <string name="edit_profile_first_name_hint">First name</string>
+    <string name="edit_profile_last_name_hint">Last name</string>
+    <string name="edit_profile_birthdate_hint">Birthdate</string>
+    <string name="edit_profile_phone_number_hint">Phone number</string>
+    <string name="edit_profile_email_address_hint">Email address</string>
+    <string name="dashboard_tv_recent_trips_placeholder">No recent trip yet. Please schedule a new trip!</string>
+    <string name="tv_Profile_title">Profile</string>
+    <string name="edit_profile_full_name_title">Full name:</string>
+    <string name="edit_profile_birthdate_title">Birthdate:</string>
+    <string name="edit_profile_phone_number_title">Phone number:</string>
+    <string name="edit_profile_email_address_title">Email address:</string>
+    <string name="tv_settings_title">Settings</string>
+    <string name="settings_tv_themes_title">Themes:</string>
+    <string name="settings_tv_rating_title">Give us a rating!</string>
+    <string name="trips_tv_title">Trip history</string>
+    <string name="location_warning">Pickup location is too short!</string>
+    <string name="destination_warning">Destination is too short!</string>
+    <string name="date_invalid">Trip date is not valid!</string>
+    <string name="time_invalid">Trip time is not valid!</string>
+    <string name="select_passengers">Select the number of passengers!!</string>
+    <string name="no_trips">You haven\'t made any trips yet</string>
+    <string name="welcome">"Hello, "</string>
+    <string name="first_name_warning">First name is too short!</string>
+    <string name="last_name_warning">Last name is too short!</string>
+    <string name="age_warning">You have to be at least 18!</string>
+    <string name="invalid_phone">Phone number is not valid!</string>
+    <string name="invalid_email">Email address is not valid!</string>
+    <string name="trip_item_default_value">-</string>
+    <string-array name="fragment_settings_themes">
+        <item>Light theme</item>
+        <item>Dark theme</item>
+        <item>Follow system (recommended)</item>
+    </string-array>
+    <string name = "trip_item_time_template">%1$d:%2$d</string>
+    <string name = "fullname_template">%1$s %2$s</string>
+    <string name = "hello_fullname_template">Hello, %1$s %2$s!</string>
+    <string name = "last_profile_update_template">Profile last updated on: %1$d/%2$d</string>
+    <string name = "number_of_trips_template">You went on %1$d trips using ride sharing so far!</string>
+    <string name="tv_trip_item_round_trip">"Round trip: "</string>
+    <string name="lv_trip_item_destination">"Destination: "</string>
+    <string name="tv_trip_item_meet_location">"Meet location: "</string>
+    <string name="profile_info_last_updated_on">Last updated on: -</string>
+    <string name="premium_user">Premium user</string>
+    <string name="premium_user_title">Premium user:</string>
+    <string name="meet_location_PH">Meet location</string>
+    <string name="destination_PH">Destination</string>
+    <string name="date_PH">Date</string>
+    <string name="time_PH">Time</string>
+    <string name="passengers_PH">Passengers</string>
+    <string name="round_tripPH">Round trip</string>
+    <string name="welcome_message_PH">Welcome message</string>
+    <string name="trips_info_PH">Trips info</string>
+</resources>
