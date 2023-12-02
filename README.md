@@ -1,1 +1,1 @@
-# RideSharing_AndroidApp-mock-up-
+# Ride Sharing Android App (mock-up)
