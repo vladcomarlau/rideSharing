@@ -1,0 +1,18 @@
+[
+    {
+        "atribut 1 - object level 1": "value",
+        "atribut 2 - object level 1": "value",
+        "atribut 3 - object level 1": 
+        {
+            "atribut 1 - object level 2": "value",
+            "atribut 2 - object level 2": "value",
+            "atribut 3 - object level 2": 
+            {
+                "atribut 1 - object level 3": "value",
+                "atribut 2 - object level 3": "value",
+                "atribut 3 - object level 3": "value"
+            }
+        }
+    }
+]
+
