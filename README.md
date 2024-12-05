@@ -1,5 +1,5 @@
 # Ride Sharing Android App (frontend)
-### App used for scheduling ride sharing trips
+### App for scheduling ride sharing trips
 ## Project specifications
 - faculty project for the "Mobile devices and applications" course
 - language used Java
