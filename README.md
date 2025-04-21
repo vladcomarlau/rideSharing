@@ -2,7 +2,7 @@
 ### App for scheduling ride sharing trips
 ## Project specifications
 - faculty project for the "Mobile devices and applications" course
-- language used Java
+- written in Java
 - developed using Android Studio IDE
 
 ## Features
